@@ -1,0 +1,9 @@
+{
+	"name": "adf-nyc-payroll-001",
+	"location": "southeastasia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "48b7d652-031f-40cd-98cc-05519708fd19",
+		"tenantId": "9adf894c-fb31-4d5c-b713-68547fe88539"
+	}
+}
